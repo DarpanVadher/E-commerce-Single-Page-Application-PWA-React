@@ -4,20 +4,6 @@ E-commerce Single Page Application
 
 <h1 align="center">New React App</h1>
 
-# Usage
-
-To clone and use this template type the following commands:
-
-```sh
-npx degit chrisuser/vite-complete-react-app my-app
-```
-
-```sh
-cd my-app
-```
-
-Then, based on your package manager:
-
 ## npm
 
 ```sh
@@ -195,13 +181,4 @@ This is the structure of the files in the project:
     ├── tsconfig.json
     └── vite.config.json
 ```
-
-# 📖 Learn More
-
-You can learn more in the [Vite documentation](https://vitejs.dev/guide/).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-#
-
 <p align="center">Bootstrapped with Vite.</p>
